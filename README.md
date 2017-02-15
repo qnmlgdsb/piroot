@@ -14,3 +14,4 @@ PermitRootLogin yes
 
 key x to delete then press i type in yes
 
+sudo service ssh restart
