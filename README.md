@@ -4,8 +4,6 @@ how to setup root account on RPi
 
 sudo passwd root
 
-sudo passwd -- unlock root
-
 sudo vi /etc/ssh/sshd_config
 
 PermitRootLogin without-password
