@@ -15,7 +15,9 @@ key x to delete then press i type in yes
 sudo service ssh restart
 
 
-pi gu
+Pi Gu Piao
+
+
 apt-get install python-matplotlib
 apt-get install python-pandas
 apt-get install python-bs4
